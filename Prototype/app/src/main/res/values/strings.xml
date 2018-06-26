@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="app_name1">ACCOUNT</string>
+    <string name="app_name2">New payment</string>
+    <string name="login">LOGIN</string>
+    <string name="todo" />
+    <string name="paymentsh">Paymentsh</string>
+    <string name="recipient_name">Recipient name:</string>
+    <string name="rpn">rpn</string>
+    <string name="recipient_account">Recipient account:</string>
+    <string name="payment_information">Payment information</string>
+    <string name="accept">ACCEPT</string>
+    <string name="date">date</string>
+    <string name="amount">amount</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="my_information">My information</string>
+    <string name="bank_details">Bank details</string>
+    <string name="history">History</string>
+    <string name="new_payment">New payment</string>
+    <string name="payments">PAYMENTS</string>
+</resources>

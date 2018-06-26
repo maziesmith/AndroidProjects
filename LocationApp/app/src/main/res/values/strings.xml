@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocationApp</string>
+    <string name="name">Name</string>
+    <string name="text_a_reminder">Text a reminder</string>
+    <string name="textview">TextView</string>
+    <string name="longitude">Longitude</string>
+    <string name="latitude">Latitude</string>
+    <string name="button">Button</string>
+    <string name="save">SAVE</string>
+
+</resources>
